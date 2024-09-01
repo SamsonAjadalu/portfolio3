@@ -1,3 +1,4 @@
+{{- $isSingle := $.IsSingle | default false }}
 {{- with .cxt }} {{/* Apply proper context from dict */}}
   {{- if (and .Params.cover.image (not $.isHidden)) }}
     {{- $alt := (.Params.cover.alt | default .Params.cover.caption | plainify) }}
@@ -5,7 +6,7 @@
     <figure class="entry-cover">
       {{- $responsiveImages := (.Params.cover.responsiveImages | default site.Params.cover.responsiveImages) | default true }}
       {{- $addLink := (and site.Params.cover.linkFullImages $isSingle) }}
-      {{- $pageBundleCover     := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
+      {{- $pageBundleCover := (.Resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
       {{- $globalResourcesCover := (resources.ByType "image").GetMatch (printf "*%s*" (.Params.cover.image)) }}
       {{- $cover := (or $pageBundleCover $globalResourcesCover) }}
       {{- if $cover -}}{{/* i.e it is present in page bundle */}}
@@ -28,13 +29,13 @@
           {{- else }}{{/* Unprocessable image or responsive images disabled */}}
             <img loading="{{$loading}}" src="{{ (path.Join .RelPermalink .Params.cover.image) | absURL }}" alt="{{ $alt }}">
           {{- end }}
-      {{- else }}{{/* For absolute urls and external links, no img processing here */}}
+      {{- else }}{{/* For absolute URLs and external links, no img processing here */}}
         {{- if $addLink }}<a href="{{ (.Params.cover.image) | absURL }}" target="_blank"
             rel="noopener noreferrer">{{ end -}}
           <img loading="{{$loading}}" src="{{ (.Params.cover.image) | absURL }}" alt="{{ $alt }}">
       {{- end }}
       {{- if $addLink }}</a>{{ end -}}
-      {{/*  Display Caption  */}}
+      {{/* Display Caption */}}
       {{- if $isSingle }}
         {{ with .Params.cover.caption }}<p>{{ . | markdownify }}</p>{{- end }}
       {{- end }}
