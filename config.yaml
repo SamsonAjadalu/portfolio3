@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: en-us
-title: "Samson not Ajadalu"
+title: "Samson now Ajadalu"
 theme: PaperMod
 
 menu:
@@ -41,7 +41,7 @@ params:
   profileMode:
     enabled: true
     title: "Samson Ajadalu"
-    subtitle: "Hi 👋 I’m Samsonn to make a real impact.!"
+    subtitle: "Hii 👋 I’m Samsonn to make a real impact.!"
     imageUrl: "home/casual-small-square.jpeg"
     imageWidth: 220
     imageHeight: 220
