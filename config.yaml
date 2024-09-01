@@ -1,7 +1,7 @@
 baseURL: "https://arkalim.netlify.app"
 languageCode: en-us
-title: Samson not Ajadalu
-theme = "CustomPaperMod"
+title: "Samson not Ajadalu"
+theme: "CustomPaperMod"
 
 menu:
   main:
@@ -25,14 +25,6 @@ menu:
       name: Search
       url: /search
       weight: 50
-    # - identifier: tags
-    #   name: Tags
-    #   url: /tags
-    #   weight: 60
-    # - identifier: notes
-    #   name: Notes
-    #   url: https://notes.arkalim.org
-    #   weight: 70
 
 params:
   # theme
@@ -42,22 +34,17 @@ params:
   ShowCodeCopyButtons: true
   hideMeta: false
 
-  # for enchanced SEO
+  # for enhanced SEO
   env: production
 
   # Home Page
   profileMode:
     enabled: true
     title: "Samson Ajadalu"
-    subtitle: Hi 👋 I’m Samsonn to make a real impact.!
-
- 
+    subtitle: "Hi 👋 I’m Samsonn to make a real impact.!"
     imageUrl: "home/casual-small-square.jpeg"
     imageWidth: 220
     imageHeight: 220
-    # buttons:
-    #   - name: Resume
-    #     url: ""
 
   # List View
   hideDescriptionInList: false
