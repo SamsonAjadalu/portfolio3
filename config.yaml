@@ -1,7 +1,7 @@
-baseURL: "https://arkalim.netlify.app"
+baseURL: ""
 languageCode: en-us
 title: "Samson not Ajadalu"
-theme: "CustomPaperMod"
+theme: PaperMod
 
 menu:
   main:
