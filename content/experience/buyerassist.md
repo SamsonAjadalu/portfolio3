@@ -1,19 +1,29 @@
 ---
-title: "Backend Engineer"
-description: "BuyerAssist (India)"
-dateString: June 2021 - Aug 2022
+title: "NYSC CDS Volunteer"
+description: Sapele | Delta, (Nigeria)"
+dateString: June 2023 - 2024
 draft: false
-tags: ["TypeScript", "NodeJS", "Express", "MongoDB", "AWS", "OAuth2.0"]
+tags: ["Leadership", "Teaching", "Public Speaking"]
 showToc: false
 weight: 303
 --- 
 
 ### Description
 
-- Developed an event-driven serverless integration pipeline using AWS Lambda and EventBridge, facilitating seamless bidirectional synchronization of customer data between Salesforce and Boomerang, thereby enhancing customer onboarding experience.
-- Developed a Slack bot that sent interactive daily notifications to customers, facilitating direct actions such as task assignments and completions from within Slack. This streamlined operations and boosted sales by over 50%.
-- Engineered a job tracking system to monitor asynchronous data transfer jobs via AWS AppFlow. This dramatically enhanced the reliability and transparency of data transfers between Boomerang and Salesforce.
-- Designed and implemented a configuration-driven framework to extend the pattern-matching capability of AWS EventBridge, preventing over 1000 false invocations of AWS Lambda functions every day.
+As a volunteer with the National Youth Service Corps (NYSC), I participated in various community development services (CDS), focusing on education, health awareness, and financial inclusion programs. My work involved organizing and leading outreach initiatives in underserved communities.
 
+## Key Achievements
+- Organized health outreach programs, educating community members on disease prevention, drug abuse prevention, and healthy living.
+- Taught computer studies and mathematics to high school students, enhancing their understanding of critical subjects.
+- Led financial inclusion campaigns aimed at teaching market traders about proper customer relations and financial management.
 
-![](/experience/buyerassist/img1.jpeg#center)
+## Skills Developed
+- Leadership, Public Speaking, Community Outreach, Teaching
+
+## Results
+- Improved community health awareness through education on disease prevention and antenatal care.
+- Empowered students with the knowledge and skills needed to excel in computer studies and mathematics.
+
+## Future Work
+- Continue developing outreach programs that focus on environmental sustainability and digital literacy in underserved communities.
+
