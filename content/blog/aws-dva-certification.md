@@ -29,6 +29,7 @@ One of the most challenging aspects of the course for me was understanding data 
 My final project for the course was a fitness web app called [TrainMuscleFit](https://arkalim.org/blog/aws-saa-certification). The idea behind it was to create an interactive platform that could help users plan and track their workouts and nutrition. This project was a culmination of the skills I developed throughout the course, incorporating HTML, CSS, JavaScript, and Flask. It took a few days to complete, but I ensured that everything was polished and functioning as intended.
 
 The project felt like the perfect conclusion to my CS50 journey because it combined both the front-end and back-end skills I had learned. You can check out a demo of TrainMuscleFit [here](https://arkalim.org/blog/aws-saa-certification).
+![](/blog/aws-saa-certification/img2.jpg)
 
 # What I Learned
 CS50 taught me more than just coding—it helped me understand the concept of programming deeply. I learned C, SQL, and JavaScript, in addition to building on my existing knowledge of Python and HTML/CSS. The course gave me strong problem-solving skills and a better understanding of how to approach complex technical challenges.
