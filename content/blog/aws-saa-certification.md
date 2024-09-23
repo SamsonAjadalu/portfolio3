@@ -10,7 +10,7 @@ cover:
 ---
 
 # Credentials
-### 🔗 [Certificate]([https://drive.google.com/file/d/1NLGxG3-Id7lGUFL-SVhMl7mvWb9GYIxS/view?usp=sharing](https://coursera.org/share/b344929ee137b00134c2d043ee345289))
+### 🔗 [Certificate](https://drive.google.com/file/d/1NLGxG3-Id7lGUFL-SVhMl7mvWb9GYIxS/view?usp=sharing](https://coursera.org/share/b344929ee137b00134c2d043ee345289)
 
 ### 🔗 [Credly Badge](https://www.credly.com/badges/dfc84bb4-75ab-449f-bdf5-4dc85eb12ad6/public_url)
 
