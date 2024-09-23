@@ -1,5 +1,5 @@
 ---
-title: "Equipment Maintenance Center - Intern"
+title: "Applying Automation and AI in Electronics Maintenance - Intern"
 description: "UNIBEN | Benin, Nigeria"
 dateString: Sep 2021 - June 2022
 draft: false
