@@ -13,6 +13,7 @@ cover:
 # Introduction
 
 This project leverages machine learning models to predict diabetes and heart disease using real-world datasets. The aim is to assist in early diagnosis, which can significantly improve patient outcomes by enabling timely interventions.
+![](/blog//machine-learning-visualized/healthcare_prediction.png
 
 ### Datasets:
 1. **Diabetes Prediction**:
@@ -52,6 +53,15 @@ This project leverages machine learning models to predict diabetes and heart dis
 - **Diabetes Prediction**: Logistic Regression with Regularization Parameter (C) = 100, Max Iterations = 2000.
 - **Heart Disease Prediction**: Logistic Regression with Regularization Parameter (C) = 0.01, Max Iterations = 5000, and class weighting to handle imbalance.
 
+### Combined Confusion Matrix:
+- The confusion matrices for both the diabetes and heart disease predictions are shown below:
+  
+  ![Combined Confusion Matrix](/blog//machine-learning-visualized/confusion_matrices.png)
+
+### Cross-Validation and Test Accuracy Comparison:
+- The bar chart below shows a comparison of cross-validation and test accuracy for both models:
+  
+  ![Accuracy Comparison](/blog//machine-learning-visualized/accuracy_comparison.png)
 ---
 
 ## Challenges and Solutions
@@ -81,13 +91,14 @@ This project leverages machine learning models to predict diabetes and heart dis
 ## Demo
 
 I’ve also created a live demo for this project, which you can check out [here](https://healthpredictai-c0e8362f9e79.herokuapp.com/). For the full code, detailed instructions, and further exploration, visit the [GitHub repository](https://github.com/Ransometech/HealthPredictAI).
-
+![](/blog//machine-learning-visualized/img1.png
 
 ## Future Improvements
 
 - **Larger Datasets**: Plan to incorporate larger datasets to enhance model robustness.
 - **Advanced Algorithms**: Future experimentation with **XGBoost** or **Neural Networks**.
 - **Feature Expansion**: Add additional health metrics to improve accuracy further.
+![](/blog//machine-learning-visualized/future_model.png
 
 ## Conclusion
 This project demonstrates the potential of machine learning in healthcare, specifically in early disease detection. By applying AI models, we can assist healthcare professionals in diagnosing conditions like diabetes and heart disease earlier, potentially saving lives through timely intervention.
