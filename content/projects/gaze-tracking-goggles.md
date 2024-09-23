@@ -1,16 +1,36 @@
 ---
-title: "Gaze-tracking Goggles"
+title: " Python-based Scientific Calculator"
 description: "Smart Goggles for Gaze Analysis"
-dateString: Sep 2019 - Oct 2019
+dateString: Sep 2020 - Feb 2021
 draft: false
-tags: ["DL", "AI", "Python", "PyTorch", "Computer Vision"]
+tags: ["Python", "Kivy", "NumPy"]
 showToc: false
 weight: 206
 cover:
     image: "projects/gaze-tracking-goggles/cover.jpg"
 --- 
-## Description
+#
 
-The aim of the project was to build goggles which could find where the user was looking (gaze), the category of object the user was looking at, and the duration of attention on that object. The goggles had 3 camera modules, one on each eye to track the pupil movement and the third one for mapping the gaze to the real world. Thresholding was used to detect the pupils and contours were used to find its centre. Various important parameters such as pupil velocity, acceleration, and fixation time were calculated for further statistical analysis. **Single Shot Descriptor**, with **VGG16** as backbone, was used to detect the objects the user was gazing at. Additionally, a GUI was made using **TkInter** for ease of use.
+## Project Overview
+This project developed a scientific calculator using Python and Kivy. The calculator handles basic arithmetic operations, trigonometric functions, logarithms, and other advanced mathematical computations, providing an easy-to-use tool for scientific tasks.
 
-![](/projects/gaze-tracking-goggles/img1.jpg)
+## Technologies Used
+- **Frameworks**: Python, Kivy
+- **Libraries**: NumPy, PyQt
+
+## Key Challenges
+- Developed a smooth and intuitive graphical interface using Kivy while maintaining computational efficiency for complex operations.
+
+## Results
+- Created a user-friendly tool for students and professionals needing quick and accurate scientific calculations.
+
+## Images
+![Scientific Calculator](link-to-image)
+
+## Future Work
+- Add support for more advanced operations such as matrix calculations and symbolic mathematics.
+- Extend the app to a mobile version for increased accessibility.
+
+## Repository Link
+- [View the full project on GitHub](https://github.com/your-username/scientific-calculator)
+
