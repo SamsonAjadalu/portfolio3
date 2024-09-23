@@ -1,12 +1,12 @@
 ---
 title: "What I Learned from Andrew Ng’s AI Courses"
-description: ""What I Learned About AI"
+description: "What I Learned About AI"
 dateString: May 2022
 draft: false
 tags: ["AI", "machine learning", "Certification"]
 weight: 102
 cover:
-    image: "/blog/aws-saa-certification/cover.jpeg"
+    image: "/blog/ai-certification/cover.jpeg"
 ---
 
 # Credentials
