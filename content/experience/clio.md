@@ -2,7 +2,7 @@
 title: "Software Developer II (Backend Infrastructure)"
 description: "Clio | Toronto, Canada"
 dateString: June 2024 - Present
-draft: false
+draft: true
 tags: ["Ruby", "Ruby on Rails"]
 showToc: false
 weight: 301
