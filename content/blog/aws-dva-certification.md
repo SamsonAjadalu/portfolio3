@@ -1,6 +1,6 @@
 ---
-title: "I passed the AWS DVA Certification Exam"
-description: "How I passed the AWS Developer - Associate Certification Exam (DVA-C02)"
+title: "How CS50 by Harvard Transformed My Understanding of Computer Science"
+description: "CS50 Helped Me Master the Fundamentals of Computer Science and AI"
 dateString: Mar 2023
 draft: false
 tags: ["AWS", "DVA", "Certification", "Developer", "Developer Associate"]
