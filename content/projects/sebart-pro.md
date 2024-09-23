@@ -2,7 +2,7 @@
 title: "SEBART-Pro"
 description: "A smart self-balancing robot!"
 dateString: May 2018 - July 2018
-draft: false
+draft: true
 tags: ["C++", "Raspberry Pi", "Arduino", "Robotics", "AI", "DL", "CNN"]
 showToc: false
 weight: 209
