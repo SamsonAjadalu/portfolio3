@@ -23,7 +23,7 @@ I was also in need of a formal certification to back up my skills, and CS50 felt
 
 #  Challenges I Faced
 One of the most challenging aspects of the course for me was understanding data structures in C. Having worked with Python before, I was used to its built-in features like dictionaries (which function similarly to hash tables). In C, I had to manually implement a hash table, which required a deeper understanding of how data is stored and accessed in memory. Although I had learned the basics in school, diving into these structures in C during CS50 was a different and more challenging experience, significantly improving my programming skills.
-![hi](/blog/aws-dva-certification/img1.jpg)
+![hi](/blog/aws-dva-certification/python_vs_c_hash_table.png)
 
 # My Final Project
 My final project for the course was a fitness web app called [TrainMuscleFit](https://arkalim.org/blog/aws-saa-certification). The idea behind it was to create an interactive platform that could help users plan and track their workouts and nutrition. This project was a culmination of the skills I developed throughout the course, incorporating HTML, CSS, JavaScript, and Flask. It took a few days to complete, but I ensured that everything was polished and functioning as intended.
