@@ -10,11 +10,9 @@ cover:
 ---
 
 # Credentials
-### 🔗 [Certificate](https://drive.google.com/file/d/1VhFPfb1cc7ORFVqFetCvpiGLPE96ofg4/view?usp=sharing)
+### 🔗 [Certificate]([https://drive.google.com/file/d/1VhFPfb1cc7ORFVqFetCvpiGLPE96ofg4/view?usp=sharing](https://courses.edx.org/certificates/52737c9a8c2c4dee8623a9289faa4f57))
 
 ### 🔗 [Credly Badge](https://www.credly.com/badges/b08022fe-627a-4b78-8647-b42955f50767/public_url)
-
-### 🎬 [YouTube Video](https://youtu.be/x88k9fuEDuE)
 
 # Why I Took CS50
 When I decided to take the CS50 course by Harvard, I had already been coding since 2017, mainly through self-taught Python tutorials on YouTube. I worked on small projects and even freelanced, using Python for automation and web scraping. I also built websites using Flask, HTML, CSS, and JavaScript. However, something was missing—I didn’t truly understand the fundamentals of programming. While I knew how to code, I felt like I didn’t fully grasp what was happening under the hood. I needed to understand the "why" and "how" behind programming, especially the principles and mechanics that drive everything. CS50 provided that in-depth knowledge I was looking for.
@@ -40,4 +38,4 @@ After completing CS50, I jumped right into the AI Specialization with renewed co
 If you're looking to dive into computer science or want a deeper understanding of programming, CS50 is absolutely worth it. It goes beyond just learning how to code; it gives you the knowledge of what's going on behind the scenes in your programs. Whether you're a beginner or someone like me who already had coding experience, you'll gain something valuable from the course.
 
 #  Completion and Moving Forward
-When I finally completed CS50, I felt an incredible sense of accomplishment. Receiving the certificate was a huge plus, but more than that, the course left me feeling ready to tackle even bigger programming challenges. I was excited and confident, and I knew that I had built a solid foundation in computer science that would support my future projects and career goals.!
+When I finally completed CS50, I felt an incredible sense of accomplishment. Receiving the certificate (you can view it [here](https://courses.edx.org/certificates/52737c9a8c2c4dee8623a9289faa4f57) gave me confidence, but more than that, the course left me ready to tackle even bigger programming challenges. I was excited and confident, and I knew that I had built a solid foundation in computer science that would support my future projects and career goals..!
