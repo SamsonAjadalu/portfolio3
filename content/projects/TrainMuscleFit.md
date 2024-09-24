@@ -7,7 +7,7 @@ tags: ["HTML", "Python", "CSS", "SQL", "JavaScript", "Flask", "Bootstrap"]
 showToc: false
 weight: 208
 cover:
-    image: "projects/search-and-reconnaissance-robot/cover.jpeg"
+    image: "projects/search/cover.jpeg"
 --- 
 
 ### Project Overview
