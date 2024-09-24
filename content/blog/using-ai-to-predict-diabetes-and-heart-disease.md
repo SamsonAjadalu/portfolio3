@@ -6,7 +6,7 @@ draft: false
 tags: ["ML", "AI", "Python", "Diabetes", "Disease"]
 weight: 105
 cover:
-    image: "blog/machine-learning-visualized/cover.jpeg"
+    image: "blog/using-ai-to-predict-diabetes-and-heart-disease/cover.jpeg"
     # caption: "Photo by Lenin Estrada on Unsplash"
 ---
 
