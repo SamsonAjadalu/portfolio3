@@ -7,7 +7,7 @@ tags: ["Python", "C", "Arduino"]
 showToc: false
 weight: 203
 cover:
-    image: "projects/automated-image-captioning/cover.jpg"
+    image: "projects/automate-captioning/cover.jpg"
 --- 
 
 ## Project Overview
