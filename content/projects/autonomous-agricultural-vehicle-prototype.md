@@ -7,7 +7,7 @@ tags: ["Arduino", "Soil Moisture Sensors", "Python", "C", "Automation"]
 showToc: false
 weight: 207
 cover:
-    image: "projects/openquad/cover.jpg"
+    image: "projects/o/cover.jpg"
 --- 
 ### 🔗 [GitHub](https://github.com/OpenQuad-RMI/openquad)
 
