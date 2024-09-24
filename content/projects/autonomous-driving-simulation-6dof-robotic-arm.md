@@ -7,7 +7,7 @@ tags: ["Raspberry Pi", "Jetson Nano", "ROS2", "TensorFlow", "Python"]
 showToc: false
 weight: 202
 cover:
-    image: "projects/kindle-to-notion/cover.jpg"
+    image: "projects/to-notion/cover.jpg"
 --- 
 ### 🔗 [GitHub](https://github.com/arkalim/kindle-to-notion)
 
