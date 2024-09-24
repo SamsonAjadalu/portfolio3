@@ -7,7 +7,7 @@ tags: ["IoT", "C", "Python", "Automation"]
 showToc: false
 weight: 205
 cover:
-    image: "projects/face-landmarks-detection/cover.jpg"
+    image: "projects/face/cover.jpg"
 --- 
 
 # Home Automation IoT System
