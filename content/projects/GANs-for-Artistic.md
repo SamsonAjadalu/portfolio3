@@ -6,7 +6,7 @@ draft: false
 tags: ["TensorFlow", "StyleGAN3", "GAN "]
 weight: 201
 cover:
-    image: "/projects/obsidian-publish-github-action/cover.jpg"
+    image: "/projects/ga/cover.jpg"
 ---
 
 # GANs for Artistic Image Generation
