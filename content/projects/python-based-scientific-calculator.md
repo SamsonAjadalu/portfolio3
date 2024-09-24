@@ -7,7 +7,7 @@ tags: ["Python", "Kivy", "NumPy"]
 showToc: false
 weight: 206
 cover:
-    image: "projects/gaze-tracking-goggles/cover.jpg"
+    image: "projects/gaz-goggles/cover.jpg"
 --- 
 #
 
