@@ -7,7 +7,7 @@ tags: ["HTML", "Python", "CSS", "SQL", "JavaScript", "Flask", "Bootstrap"]
 showToc: false
 weight: 208
 cover:
-    image: "projects/TrainMuscleFit/cover.jpeg"
+    image: "projects/TrainMuscleFit/cover.png"
 --- 
 
 ### Project Overview
