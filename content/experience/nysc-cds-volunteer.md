@@ -20,10 +20,3 @@ As a volunteer with the National Youth Service Corps (NYSC), I participated in v
 ## Skills Developed
 - Leadership, Public Speaking, Community Outreach, Teaching
 
-## Results
-- Improved community health awareness through education on disease prevention and antenatal care.
-- Empowered students with the knowledge and skills needed to excel in computer studies and mathematics.
-
-## Future Work
-- Continue developing outreach programs that focus on environmental sustainability and digital literacy in underserved communities.
-
