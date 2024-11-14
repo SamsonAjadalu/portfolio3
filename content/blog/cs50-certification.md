@@ -2,7 +2,7 @@
 title: "How CS50 by Harvard Transformed My Understanding of Computer Science"
 description: "CS50 Helped Me Master the Fundamentals of Computer Science and AI"
 dateString: Mar 2023
-draft: false
+draft: true
 tags: ["CS50", "DVA", "Certification", "Developer", "Developer Associate"]
 weight: 101
 cover:
