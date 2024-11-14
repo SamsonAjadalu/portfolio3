@@ -31,7 +31,7 @@ Developed an AI-powered energy optimization system for my thesis titled **“Opt
 
 
 ## Demo
-[View Thesis]([link_to_demo](https://journalajrcos.com/index.php/AJRCOS/article/view/516))
+[View Thesis](https://journalajrcos.com/index.php/AJRCOS/article/view/516)
 
 ## GitHub Repository
 [View Full Project on GitHub](https://github.com/SamsonAjadalu/RL-SmartHome-EnergyEfficiency)
