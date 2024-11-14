@@ -2,7 +2,7 @@
 title: "Agricultural Automation Robotic Arm"
 description: "robotic arm prototype to assist in optimizing crop yield"
 dateString: Jan 2020
-draft: false
+draft: true
 tags: ["Python", "C", "Arduino"]
 showToc: false
 weight: 203
