@@ -2,7 +2,7 @@
 title: "Autonomous Agricultural Vehicle Prototype"
 description: "Autonomous Agricultural Vehicle Prototype"
 dateString: July 2019 - Dec 2019
-draft: false
+draft: true
 tags: ["Arduino", "Soil Moisture Sensors", "Python", "C", "Automation"]
 showToc: false
 weight: 207
