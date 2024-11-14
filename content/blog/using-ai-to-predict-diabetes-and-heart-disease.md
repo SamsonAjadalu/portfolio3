@@ -1,7 +1,7 @@
 ---
 title: "Using AI to Predict Diabetes and Heart Disease"
 description: "This project leverages machine learning models to predict diabetes and heart disease using real-world datasets."
-dateString: August 2020
+dateString: September 2024
 draft: false
 tags: ["ML", "AI", "Python", "Diabetes", "Disease"]
 weight: 105
