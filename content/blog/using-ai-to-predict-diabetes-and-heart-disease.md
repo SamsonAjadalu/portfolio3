@@ -13,7 +13,7 @@ cover:
 # Introduction
 
 This project leverages machine learning models to predict diabetes and heart disease using real-world datasets. The aim is to assist in early diagnosis, which can significantly improve patient outcomes by enabling timely interventions.
-![](/blog//machine-learning-visualized/healthcare_prediction.png
+![](/blog//using-ai-to-predict-diabetes-and-heart-disease/healthcare_prediction.png
 
 ### Datasets:
 1. **Diabetes Prediction**:
@@ -56,7 +56,7 @@ This project leverages machine learning models to predict diabetes and heart dis
 ### Combined Confusion Matrix:
 - The confusion matrices for both the diabetes and heart disease predictions are shown below:
   
-  ![Combined Confusion Matrix](/blog//machine-learning-visualized/confusion_matrices.png)
+  ![Combined Confusion Matrix](/blog//using-ai-to-predict-diabetes-and-heart-disease/confusion_matrices.png)
 
 ### Cross-Validation and Test Accuracy Comparison:
 - The bar chart below shows a comparison of cross-validation and test accuracy for both models:
