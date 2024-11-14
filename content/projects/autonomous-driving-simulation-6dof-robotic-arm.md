@@ -2,7 +2,7 @@
 title: " Autonomous Driving Simulation and 6DOF Robotic Arm"
 description: "simulates autonomous driving using reinforcement learning"
 dateString: Dec 2021
-draft: false
+draft: true
 tags: ["Raspberry Pi", "Jetson Nano", "ROS2", "TensorFlow", "Python"]
 showToc: false
 weight: 202
