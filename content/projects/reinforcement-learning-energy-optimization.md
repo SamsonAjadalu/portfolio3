@@ -6,7 +6,7 @@ draft: false
 tags: ["Reinforcement Learning", "IoT", "Smart Home Automation", "Energy Optimization"]
 weight: 203
 cover:
-    image: "projects/energy-optimization/cover.jpg"
+    image: "projects/energy-optimization/cover.png"
 ---
 
 # Reinforcement Learning for Energy Optimization in Smart Home Automation
