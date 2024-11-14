@@ -41,7 +41,7 @@ params:
   profileMode:
     enabled: true
     title: "Samson Ajadalu"
-    subtitle: "Hi 👋 I’m Samson Ajadalu, a tech enthusiast passionate about solving problems with AI. As an aspiring AI engineer, I use technology to make a real impact. My mornings kick off at the gym, and the rest of the day, I’m deep into coding and working on exciting projects. I like to unwind in the evening by reading or doing research to stay sharp. Let’s connect and create something awesome together!"
+    subtitle: "Hello 👋 I’m Samson Ajadalu, a tech enthusiast passionate about solving problems with AI. As an aspiring AI engineer, I use technology to make a real impact. My mornings kick off at the gym, and the rest of the day, I’m deep into coding and working on exciting projects. I like to unwind in the evening by reading or doing research to stay sharp. Let’s connect and create something awesome together!"
     imageUrl: "home/casual-small-square.jpeg"
     imageWidth: 220
     imageHeight: 220
