@@ -20,7 +20,7 @@ After completing my undergraduate studies, I developed **Rosie**, an AI-powered 
 - **Hardware**: LiDAR, IMU, Depth Cameras, NVIDIA Jetson Nano, Raspberry Pi, ESP32
 - **Algorithms**: SLAM, Reinforcement Learning (RL), Sensor Fusion, Extended Kalman Filter (EKF)
 
-## Key Challenges
+## Key Achievements
 - Integrated SLAM with reinforcement learning for navigation and adaptive manipulation.
 - Applied sensor fusion techniques with EKF for improved navigation accuracy using data from LiDAR, IMU, and depth cameras.
 - Synchronized real-time data from multiple sensors using a multi-threaded ROS2 architecture.
