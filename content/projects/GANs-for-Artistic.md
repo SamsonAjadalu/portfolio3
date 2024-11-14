@@ -2,7 +2,7 @@
 title: "GANs for Artistic Image Generationn"
 description: "generate artistic images of dogs by combining real-world photos with artistic styles from the WikiArt dataset"
 dateString: June 2024
-draft: false
+draft: true
 tags: ["TensorFlow", "StyleGAN3", "GAN "]
 weight: 201
 cover:
