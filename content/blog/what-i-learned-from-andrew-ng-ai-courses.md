@@ -6,7 +6,8 @@ draft: false
 tags: ["AI", "machine learning", "Certification"]
 weight: 102
 cover:
-    image: "blog/ai-certification/cover.jpeg"
+  image: "blog/what-i-learned-from-andrew-ng-ai-courses/cover.jpeg"
+
 ---
 
 # Credentials
