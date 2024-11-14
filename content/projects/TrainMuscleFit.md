@@ -7,7 +7,7 @@ tags: ["HTML", "Python", "CSS", "SQL", "JavaScript", "Flask", "Bootstrap"]
 showToc: false
 weight: 208
 cover:
-    image: "projects/search/cover.jpeg"
+    image: "projects/TrainMuscleFit/cover.jpeg"
 --- 
 
 ### Project Overview
@@ -26,27 +26,12 @@ TrainMuscleFit is a comprehensive fitness and nutrition tracking web application
 - **Progress Visualization**: Displays progress over time through charts, including weight, calories burned, and workout improvements.
 - **Responsive Design**: Optimized for both desktop and mobile devices for seamless user experience.
 
-## Key Challenges
-- Integrated multiple external APIs (ExerciseDB and Nutritionix) to deliver accurate fitness and nutrition data.
-- Ensured data consistency and security for user data across sessions using Flask and SQLite.
-
 ## Results
 - Created a fully functional fitness app that allows users to easily manage their fitness goals, track progress, and get real-time nutritional data.
-- Improved user engagement by providing visual representations of fitness goals and progress through charts and statistics.
-
-## Screenshots
-![Home Page](link-to-home-page-image)
-![Workout Tracker](link-to-workout-tracker-image)
-![Nutrition Tracker](link-to-nutrition-tracker-image)
-
-## Future Work
-- Add additional workout plans and nutrition guides to cater to more diverse fitness goals.
-- Implement a premium subscription model for users to access advanced features, such as personalized fitness plans and AI-driven recommendations.
-- Expand to include fitness challenges and social features where users can compete and share their progress.
 
 ## Demo
-- [Live Demo of TrainMuscleFit](link-to-demo)
+- [Live Demo of TrainMuscleFit](https://trainmusclefit.pythonanywhere.com/)
 
 ## Repository Link
-- [View the full project on GitHub](https://github.com/your-username/trainmusclefit)
+- [View the full project on GitHub](https://github.com/SamsonAjadalu/TrainMuscleFit/tree/TrainMuscleFit/TrainMuscleFit)
 
