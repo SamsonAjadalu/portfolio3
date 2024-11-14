@@ -6,15 +6,11 @@ draft: false
 tags: ["AI", "machine learning", "Certification"]
 weight: 102
 cover:
-    image: "/blog/ai-certification/cover.jpeg"
+    image: "blog/ai-certification/cover.jpeg"
 ---
 
 # Credentials
 ### 🔗 [Certificate](https://coursera.org/share/b344929ee137b00134c2d043ee345289)
-
-### 🔗 [Credly Badge](https://www.credly.com/badges/dfc84bb4-75ab-449f-bdf5-4dc85eb12ad6/public_url)
-
-### 🎬 [YouTube Video](https://youtu.be/uRyIK28NsCI)
 
 # Introduction
 When I first heard about AI and machine learning, I knew how to implement some basic AI codes, but I wasn’t confident about the larger scope of its applications. I thought AI was only for large-scale, high-end projects, and that you needed advanced robotics systems or powerful computers to make it work. Through these courses, I realized that AI can be implemented on even simpler systems, like Arduino, and that I could apply AI to more accessible projects.
