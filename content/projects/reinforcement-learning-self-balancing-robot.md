@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning Self-Balancing Robot"
 description: "Developed a self-balancing robot using Arduino and MPU6050 sensor, leveraging reinforcement learning to maintain balance."
-dateString: "2020 - 2021"
+dateString: "2020"
 draft: false
 tags: ["Reinforcement Learning", "Robotics", "Arduino", "Self-Balancing Robot"]
 weight: 209
