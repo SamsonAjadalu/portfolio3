@@ -14,7 +14,7 @@ cover:
 ### 🔗 [Certificate](https://coursera.org/share/b344929ee137b00134c2d043ee345289)
 
 # Introduction
-When I first heard about AI and machine learning, I knew how to implement some basic AI codes, but I wasn’t confident about the larger scope of its applications. I thought AI was only for large-scale, high-end projects, and that you needed advanced robotics systems or powerful computers to make it work. Through these courses, I realized that AI can be implemented on even simpler systems, like Arduino, and that I could apply AI to more accessible projects.
+When I first heard about AI and machine learning, I figured out how to implement some basic AI codes, but I wasn’t confident about the larger scope of its applications. I thought AI was only for large-scale, high-end projects, and that you needed advanced robotics systems or powerful computers to make it work. Through these courses, I realized that AI can be implemented on even simpler systems, like Arduino, and that I could apply AI to more accessible projects.
 
 Before taking these courses, I dabbled in AI during internships and personal projects, but Andrew Ng’s AI For Everyone and Machine Learning Specialization opened up a whole new world for me. These courses helped me realize that AI could fit into every part of my future goals. At one point, I considered focusing on cybersecurity, but these courses made it clear that AI is my true passion. Everything I want to achieve revolves around AI, and Andrew Ng’s teaching made that even clearer.
 
