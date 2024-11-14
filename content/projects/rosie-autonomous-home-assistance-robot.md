@@ -16,7 +16,7 @@ After completing my undergraduate studies, I developed **Rosie**, an AI-powered 
 
 ## Technologies Used
 - **Programming Languages**: Python, C++
-- **Frameworks & Libraries**: ROS2, PyTorch, OpenCV, Micro-RO
+- **Frameworks & Libraries**: ROS2, PyTorch, OpenCV, Micro-ROS
 - **Hardware**: LiDAR, IMU, Depth Cameras, NVIDIA Jetson Nano, Raspberry Pi, ESP32
 - **Algorithms**: SLAM, Reinforcement Learning (RL), Sensor Fusion, Extended Kalman Filter (EKF)
 
