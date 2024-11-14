@@ -1,12 +1,12 @@
 ---
 title: "What I Learned from Andrew Ng’s AI Courses"
 description: "What I Learned About AI"
-dateString: May 2022
+dateString: September 2024
 draft: false
 tags: ["AI", "machine learning", "Certification"]
 weight: 102
 cover:
-  image: "blog/what-i-learned-from-andrew-ng-ai-courses/cover.jpeg"
+  image: "blog/what-i-learned-from-andrew-ng-ai-courses/cover.webp"
 
 ---
 
