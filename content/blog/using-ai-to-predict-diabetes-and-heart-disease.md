@@ -6,9 +6,10 @@ draft: false
 tags: ["ML", "AI", "Python", "Diabetes", "Disease"]
 weight: 105
 cover:
-    image: "blog/using-ai-to-predict-diabetes-and-heart-disease/cover.jpeg"
+  image: "blog/using-ai-to-predict-diabetes-and-heart-disease/cover.jpg"
     # caption: "AI Healthcare Prediction
 ---
+
 
 # Introduction
 
