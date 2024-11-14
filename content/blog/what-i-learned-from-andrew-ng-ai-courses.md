@@ -20,7 +20,7 @@ Before taking these courses, I dabbled in AI during internships and personal pro
 
 # Reinforcement Learning: A Game Changer
 One of the most impactful lessons was deepening my understanding of reinforcement learning. Even though I had previously used Q-learning to build a self-balancing robot, this course introduced me to more advanced concepts in reinforcement learning. For someone who has always dreamed of working with robots, this was a game changer. The idea of teaching machines to learn and adapt based on their actions was exactly what I needed for my robotics projects.
-![](/blog/what-i-learned-from-andrew-ng-ai-courses.md/img1.webp)
+![](/blog/what-i-learned-from-andrew-ng-ai-courses/img1.webp)
 
 # AI Beyond the Technical: Understanding the Broader Impact
 Taking AI For Everyone expanded my understanding of AI beyond just the technical aspects. I realized that creating AI systems—or even founding an AI company—involves much more than just building models. It requires a strong understanding of the ethical considerations, business impact, and societal influence of AI. These are things I had never thought about before the course, and they have changed the way I think about AI.
