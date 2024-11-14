@@ -2,7 +2,7 @@
 title: "Home Automation IoT System"
 description: "Designed and implemented an IoT-based home automation system"
 dateString: May 2020
-draft: false
+draft: true
 tags: ["IoT", "C", "Python", "Automation"]
 showToc: false
 weight: 205
